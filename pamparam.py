@@ -1,3 +1,6 @@
+# Задача MAPS.Api номер 3
+
+
 import sys
 from PyQt5 import uic
 from PyQt5.QtCore import Qt
