@@ -1,4 +1,5 @@
-# Задача MAPS.Api номер 3
+# Задача MAPS.Api номер 3...
+# а вообще у меня здесь не работают кнопки вправо и влево, но я не вижу ни единой причины им не работать..
 
 
 import sys
@@ -52,7 +53,6 @@ class MainWindow(QMainWindow):
 
         if event.key() == Qt.Key_Left:
             self.x -= 0.01
-            print(self.x)
         elif event.key() == Qt.Key_Right:
             self.x += 0.01
         elif event.key() == Qt.Key_Down:
