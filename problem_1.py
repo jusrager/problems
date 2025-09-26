@@ -1,7 +1,3 @@
-# Задача MAPS.Api номер 3...
-# а вообще у меня здесь не работают кнопки вправо и влево, но я не вижу ни единой причины им не работать..
-
-
 import sys
 from PyQt5 import uic
 from PyQt5.QtCore import Qt
